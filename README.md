@@ -1,10 +1,13 @@
 # corona
 Coronavirus cases in graphs for SPb, Moscow
 
-Данные с сайта Роспотребнадзора https://rospotrebnadzor.ru/about/info/news/
+Данные с сайта Роспотребнадзора https://rospotrebnadzor.ru/about/info/news/ и официальных каналов в телеге Москвы и СПб
 
-data_new.csv - новых случаев в день </br>
-data_total.csv - сумма на момент указанной даты (дата - формирование сообщения на сайте)
+data_new.csv - новых зарегистрированных случаев в день (дата - формирование сообщения на сайте)</br>
+data_total.csv - сумма на момент указанной даты (рассчитывается по предыдущему) </br>
+death_new.csv - новых летальных случаев в день</br>
+death_total.csv - сумма на момент указанной даты (рассчитывается по предыдущему) </br>
+data_country.csv - данные по стране </br>
 
 Без учета эвакуированных из Японии с лайнера Diamond Princess.
 
@@ -16,7 +19,14 @@ data_total.csv - сумма на момент указанной даты (да�
 
 Из полезных ссылок:
 
-https://ourworldindata.org/coronavirus -  Coronavirus Disease (COVID-19) – Statistics and Research
-
 https://www.who.int/ru/emergencies/diseases/novel-coronavirus-2019 - ВОЗ
 
+https://ourworldindata.org/coronavirus -  Coronavirus Disease (COVID-19) – Statistics and Research
+
+https://www.ft.com/coronavirus-latest  Coronavirus tracked: the latest figures as the pandemic spreads
+
+https://coronavirus.jhu.edu/map.html Johns Hopkins Coronavirus Resource Center
+
+t.me/COVID2019_official - официальный канал Москвы
+
+t.me/koronavirusspb - официальный канал СПб
